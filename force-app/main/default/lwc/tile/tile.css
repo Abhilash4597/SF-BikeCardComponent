@@ -24,12 +24,15 @@ a {
 a:link {
     color: rgb(159, 159, 159);
 }
+
 a:visited {
     color: green;
 }
+
 a:hover {
     color: hotpink;
 }
+
 a:active {
     color: blue;
 }
