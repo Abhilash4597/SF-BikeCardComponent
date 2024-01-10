@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 } 
 
 .wrapper{
@@ -21,7 +23,7 @@ body {
   display: flex;
   flex: 1;
   background: #999;
-  color: #000; 
+  color: #000;
 }
 
 .columns{
